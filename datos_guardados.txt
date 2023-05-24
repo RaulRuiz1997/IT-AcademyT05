@@ -1,0 +1,12 @@
+Carpeta\a - con 1 archivo\prueba.docx - (F) - 19/05/2023 18:29:18
+Carpeta\Esto es un directorio\archivo1.docx - (F) - 07/05/2023 20:01:47
+Carpeta\Esto es un directorio\archivo2.docx - (F) - 07/05/2023 20:01:52
+Carpeta\a - con 1 archivo - (D) - 19/05/2023 18:29:20
+Carpeta\a - vacia - (D) - 19/05/2023 18:28:58
+Carpeta\a.docx - (F) - 21/04/2023 12:57:04
+Carpeta\b.docx - (F) - 21/04/2023 12:57:10
+Carpeta\b2.docx - (F) - 21/04/2023 13:00:33
+Carpeta\c.docx - (F) - 21/04/2023 12:57:17
+Carpeta\c2.docx - (F) - 21/04/2023 13:42:31
+Carpeta\d.docx - (F) - 21/04/2023 12:57:21
+Carpeta\Esto es un directorio - (D) - 07/05/2023 20:01:54
